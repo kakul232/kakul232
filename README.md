@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello , Welcome to my profile 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=kakul232&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" alt="kakul232" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakul232&layout=compact&theme=graywhite" alt="kakul232" />     
 
 <!--
 **kakul232/kakul232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
